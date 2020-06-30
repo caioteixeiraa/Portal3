@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/low-poly-drytree2.obj-c260341ed7b925b516d92817c16cc686.mesh"
+
+[deps]
+
+files=[ "res://.import/low-poly-drytree2.obj-c260341ed7b925b516d92817c16cc686.mesh" ]
+
+source_file="res://low-poly-drytree2.obj"
+dest_files=[ "res://.import/low-poly-drytree2.obj-c260341ed7b925b516d92817c16cc686.mesh", "res://.import/low-poly-drytree2.obj-c260341ed7b925b516d92817c16cc686.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
