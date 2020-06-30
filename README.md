@@ -1,4 +1,4 @@
-# comp-grafica-portais
+# Portal 3
 Desenvolvimento de uma aplicação de computação gráfica envolvendo portais em que o usuário pode se locomover entre eles. O projeto utilizará o Godot como engine e o Blender para modelagem.
 
 
